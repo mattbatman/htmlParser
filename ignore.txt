@@ -1,0 +1,6 @@
+<img> 
+<!DOCTYPE> 
+<!doctype>
+<!-->
+<meta> 
+<link> 
